@@ -22,7 +22,8 @@ This project can be used as a docker container or as a standalone go application
 
 ### Execution
 
-* Copy the files to your environment
+* Clone the repo using the following command:
+    * git clone https://github.com/marihe93/go-exercise.git
 * Build the docker image using the following command:
     * docker build -t \<image-name\> .
 * Run the docker container using the following command:
@@ -36,8 +37,8 @@ This project can be used as a docker container or as a standalone go application
 
 ### Execution
 
-* Download the required Go modules using the following command:
-    * go mod download
+* Clone the repo using the following command:
+    * git clone https://github.com/marihe93/go-exercise.git
 * Build the Go applicaton using the following command:
     * go build
 * Execute the Go application using the following command:
